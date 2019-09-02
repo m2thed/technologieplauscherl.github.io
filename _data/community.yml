@@ -793,3 +793,12 @@
       location: "Online & San Francisco"
       date: 2019-06-01
       link: https://zeit.co/hackathon
+-
+  id: beer+code
+  name: "beer+code Ried"
+  events:
+   -
+      name: "beer+code #4"
+      location: "Catalysts Ried"
+      link: https://www.meetup.com/de-DE/Beer-Code-Ried/events/264504932
+      date: 2019-09-19
